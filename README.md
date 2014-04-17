@@ -1,5 +1,6 @@
 supersix
 ========
+<<<<<<< HEAD
 mkdir ~/supersix
 # Creates a directory for your project called "Hello-World" in your user directory
 
@@ -24,3 +25,5 @@ git remote add origin https://github.com/fayzee94/supersix.git
 
 git push origin master
 # Sends your commits in the "master" branch to GitHub
+=======
+>>>>>>> aec984518e2476842b51821eda76f86c6311206c
